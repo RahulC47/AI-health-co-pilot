@@ -9,7 +9,7 @@ An AI-native health product analyzer that reimagines how consumers understand fo
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Google Gemini](https://img.shields.io/badge/Gemini-API-orange?logo=google)](https://ai.google.dev/gemini-api)
 
-![Health Co-Pilot Demo](https://via.placeholder.com/800x400/0a0a0a/667eea?text=Health+Co-Pilot+Demo)
+![Health Co-Pilot Demo]([https://via.placeholder.com/800x400/0a0a0a/667eea?text=Health+Co-Pilot+Demo](https://ai-health-co-pilot.vercel.app/))
 
 ---
 
